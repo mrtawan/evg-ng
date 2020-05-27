@@ -1,7 +1,7 @@
 #!/bin/bash
 ####################################
-# script is written by Ihor Hreskiv
-# version 2.4.2
+# script is written by Ihor Hreskiv/Sunny
+# version 0.0.1
 ####################################
 if [ $# -eq 1 ]; then
     ver=$1
